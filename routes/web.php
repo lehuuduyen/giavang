@@ -14,3 +14,4 @@
 
 // Route::get('/', 'Controller@index');
 Route::get('/giavang', 'Controller@index');
+Route::get('/user', 'UserController@index');
